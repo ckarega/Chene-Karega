@@ -1,0 +1,42 @@
+body {
+  padding-top: 46px;
+  margin-bottom: 75px;
+  z-index: -1;
+  background-color: #EFF5FB;
+}
+h1 {
+  text-align: center;
+  font-family: Helvetica;
+}
+p {
+  text-align: center;
+}
+h2 {
+  text-align: center;
+}
+h3 {
+  text-align: center;
+}
+h4 {
+  text-align: center;
+}
+#page {
+min-height: 100%;
+position:absolute;
+}
+#header {
+  background-color: #EFF5FB;
+}
+#footer {
+  color: black;
+  margin: 0px;  
+  position: relative;
+  display: inline;  
+  width: 100%;  
+  height: 75px;  
+  bottom: 0;
+  text-align: center;  
+  padding-top: 16px;
+  z-index: 1;
+  background-color: #00000;
+}
